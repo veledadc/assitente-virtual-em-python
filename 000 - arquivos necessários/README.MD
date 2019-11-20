@@ -6,7 +6,7 @@ $ pip3 install SpeechRecognition
 $ pip3 install pyaudio
 ~~~~
 
-Vou deixar a documentação do speechrecognition pra quem tiver interesse:  https://pypi.org/project/SpeechRecogn...
+Documentação do speechrecognition pra quem tiver interesse:  https://pypi.org/project/SpeechRecogn...
 
 **Downloads:**
 
